@@ -1,0 +1,39 @@
+
+上升段：
+
+Linear model Poly5:
+     f(x) = p1*x^5 + p2*x^4 + p3*x^3 + p4*x^2 + p5*x + p6
+Coefficients (with 95% confidence bounds):
+       p1 =      -799.1  (-819.1, -779.1)
+       p2 =       597.2  (575.1, 619.3)
+       p3 =        -106  (-114.8, -97.25)
+       p4 =       10.21  (8.705, 11.71)
+       p5 =     -0.3637  (-0.4675, -0.2599)
+       p6 =    0.002418  (0.0002436, 0.004593)
+
+Goodness of fit:
+  SSE: 8.113e-05
+  R-square: 1
+  Adjusted R-square: 1
+  RMSE: 0.001442
+
+
+下降段：
+
+Linear model Poly5:
+     f(x) = p1*x^5 + p2*x^4 + p3*x^3 + p4*x^2 + p5*x + p6
+Coefficients (with 95% confidence bounds):
+       p1 =       799.5  (779.6, 819.3)
+       p2 =       -9194  (-9415, -8973)
+       p3 =   4.222e+04  (4.123e+04, 4.321e+04)
+       p4 =  -9.676e+04  (-9.895e+04, -9.457e+04)
+       p5 =   1.106e+05  (1.082e+05, 1.131e+05)
+       p6 =  -5.049e+04  (-5.157e+04, -4.941e+04)
+
+Goodness of fit:
+  SSE: 8.014e-05
+  R-square: 1
+  Adjusted R-square: 1
+  RMSE: 0.001433
+
+
